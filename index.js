@@ -1,4 +1,4 @@
 function add(){
-    return 'i am add function';
+    return 'i am very good in addition';
 }
 add();
